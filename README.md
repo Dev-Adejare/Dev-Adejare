@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,React and Java**
 
-- 💬 Ask me about **Html,Css & Javascript**
+- 💬 Ask me about **Html,Css,Javascript & React**
 
 - 📫 How to reach me **sodiqkehinde64@gmail.com**
 
