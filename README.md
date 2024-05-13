@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨‍💻, I'm KEHINDE SODIQ</h1>
-<h3 align="center">A PASSIONATE SOFTWARE DEVELOPER FROM NIGERIA</h3>
+<h3 align="center">A Passionate Software Developer from Nigeria</h3>
 <img align="right" alt="Coding" width="600" src="https://t3.ftcdn.net/jpg/07/00/66/32/240_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg"img/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-adejare&label=Profile%20views&color=0e75b6&style=flat" alt="dev-adejare" /> </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_adejare" target="blank"><img src="https://img.shields.io/twitter/follow/dev_adejare?logo=twitter&style=for-the-badge" alt="dev_adejare" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity,Typescript, Nodejs, Nextjs and Mongodb**
+- 🌱 I’m currently learning **Solidity, Typescript, and Nodejs**
 
 - 💬 Ask me about **Html,Css,Javascript & React**
 
