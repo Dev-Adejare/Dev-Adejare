@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_adejare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_adejare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sodiq kehinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sodiq kehinde" height="30" width="40" /></a>
+<a href="[https://twitter.com/dev_adejare](https://twitter.com/i/flow/login?redirect_after_login=%2FAdejare_sodiq02)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_adejare" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sodiq kehinde](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sodiq kehinde" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
