@@ -2,7 +2,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=#D1FAE5&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;WEB3+TECHNICAL+WRITER;SMART+CONTRACT+DEVELOPER)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D1FAE5&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;WEB3+TECHNICAL+WRITER;SMART+CONTRACT+DEVELOPER)](https://git.io/typing-svg)
 
 
 <h3> Software Developer 👨‍💻 | | Blockchain Developer 💻 | | Web3 Technical Writer ✍️</h3>
