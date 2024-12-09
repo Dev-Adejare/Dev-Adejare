@@ -5,7 +5,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D1FAE5&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;WEB3+TECHNICAL+WRITER;SMART+CONTRACT+DEVELOPER)](https://git.io/typing-svg)
 
 
-<h3> Software Developer 👨‍💻 | | Blockchain Developer 💻 | | Web3 Technical Writer ✍️</h3>
+<h3> Software Developer 👨‍💻 | | Web3 Developer 💻 | | Web3 Technical Writer ✍️</h3>
 <p> I am a developer dedicated to building impactful and forward-thinking solutions that seamlessly integrate traditional and emerging technologies. With over a year of practical experience, I focus on designing secure, scalable, and user-friendly digital products that span web and blockchain ecosystems.
 
 My skill set includes modern web development, decentralized application (dApp) creation, and smart contract engineering on leading blockchain networks. I leverage advanced tools, frameworks, and methodologies to ensure efficient and innovative outcomes.
